@@ -30,4 +30,16 @@ Wanted to replicate the breaking point character viewport. Mid, but yeah, still 
 Made sure to add biomes this time ;)
 ![terrain](https://user-images.githubusercontent.com/63517279/175382590-9a8485cc-854d-4d3c-a0d2-093e448420fd.png)
 
+## Secondary systems I've made before
+### 3rd person gun system
+I made this for one of those raiding games that usually entails a lot of movements hence the gun system was requested to look exactly like this.
+<video src="https://user-images.githubusercontent.com/63517279/175385931-d49cf6e3-c850-4620-b7f1-d0794de44723.mp4" controls="controls" style="max-width: 730px">
+</video>
+
+### Dynamic pet system
+I've made this for a lot of games so it's almost always inside my PC chilling.
+It's quite hard to get a good video demonstrating the dynamic nature of the system as you can see 😢
+<video src="https://user-images.githubusercontent.com/63517279/175387074-ecbc1b0a-dd3c-4b6b-9917-dacf576c525c.mp4" controls="controls" style="max-width: 730px">
+</video>
+
 #### To be updated later on, I lost most of my work 😔

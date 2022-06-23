@@ -10,7 +10,8 @@ I have also worked on a game with much potential known as **[Ro-Empires](https:/
 
 # Creations
 ## Custom animation track
-https://user-images.githubusercontent.com/63517279/175377723-668a7234-46ff-4f86-9fc2-5889c333cfee.mp4
+<video src="https://user-images.githubusercontent.com/63517279/175377723-668a7234-46ff-4f86-9fc2-5889c333cfee.mp4" controls="controls" style="max-width: 730px">
+</video>
 
 This is a way of playing animations without necessarily uploading them to Roblox in live games. Though it has several limitations and is not near perfect, I'm very proud of this as it took a considerable amount of time to successfully make this.
 The animation above was played using this **[animation track 2](https://github.com/server-script/animation-track-2)**.
@@ -21,8 +22,9 @@ This was posted **[here](https://github.com/server-script/UI-To-Code-Plugin)**.
 
 ## Character viewport
 Wanted to replicate the breaking point character viewport. Mid, but yeah, still took a while to make it 😔
+<video src="https://user-images.githubusercontent.com/63517279/175382349-ed98318b-8bf1-4eee-92d0-7cbd55413f6d.mp4" controls="controls" style="max-width: 730px">
+</video>
 
-https://user-images.githubusercontent.com/63517279/175382349-ed98318b-8bf1-4eee-92d0-7cbd55413f6d.mp4
 
 ## Terrain generation
 Made sure to add biomes this time ;)

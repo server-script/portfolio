@@ -1,5 +1,5 @@
 # Introduction
-Hi, I'm _. I'm a self-taught programmer currently specializing in luau scripting on Roblox. I discovered a passion for programming in 2017, and have been refining my skills ever since. My main interests are programming, game-design and the general game development process on Roblox. I love bringing ideas to life by means of functional and effective code, and Roblox is the platform that caught my eye first and has become my bread and butter over the years.
+Hi, I'm Duke. I'm a self-taught programmer currently specializing in luau scripting on Roblox. I discovered a passion for programming in 2017, and have been refining my skills ever since. My main interests are programming, game-design and the general game development process on Roblox. I love bringing ideas to life by means of functional and effective code, and Roblox is the platform that caught my eye first and has become my bread and butter over the years.
 
 # Past Roblox Experiences
 ## Metablox Productions

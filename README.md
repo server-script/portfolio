@@ -42,4 +42,7 @@ It's quite hard to get a good video demonstrating the dynamic nature of the syst
 <video src="https://user-images.githubusercontent.com/63517279/175387074-ecbc1b0a-dd3c-4b6b-9917-dacf576c525c.mp4" controls="controls" style="max-width: 730px">
 </video>
 
+### A Prototype of a gamejam minigame I made recently
+**[Link](https://www.roblox.com/games/11369114960/Game-Jam-Prop-Hunt-prototype)**.
+
 #### To be updated later on, I lost most of my work 😔

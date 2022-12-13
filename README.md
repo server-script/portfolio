@@ -52,6 +52,6 @@ It's quite hard to get a good video demonstrating the dynamic nature of the syst
 
 ### A Prototype of a gamejam minigame I made recently.
 This prototype is about a prop hunt in which you can possess props and move while inside them, while hunters are supposed to look for you. The framework for this prototype was designed and created by **[Orodex](https://www.roblox.com/users/1930588726/profile)**, who is an amazing programmer I deeply look up to.
-**[Link](https://www.roblox.com/games/11369114960/Game-Jam-Prop-Hunt-prototype)**.
+**[Link to game](https://www.roblox.com/games/11369114960/Game-Jam-Prop-Hunt-prototype)**.
 
 #### To be updated later on, I lost most of my work 😔

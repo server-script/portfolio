@@ -13,10 +13,7 @@ I have also worked on a game with much potential known as **[Ro-Empires](https:/
 
 # Creations
 ## Custom animation track
-<video src="https://user-images.githubusercontent.com/63517279/175377723-668a7234-46ff-4f86-9fc2-5889c333cfee.mp4" controls="controls" style="max-width: 730px">
-</video>
-
-This is a way of playing animations without necessarily uploading them to Roblox in live games. Though it has several limitations and is not near perfect, I'm very proud of this as it took a considerable amount of time to successfully make this.
+I created a way of playing animations without necessarily uploading them to Roblox in live games. Though it has several limitations and is not near perfect, I'm very proud of this as it took a considerable amount of time to successfully make this.
 The animation above was played using this **[animation track 2](https://github.com/server-script/animation-track-2)**.
 
 ## UI to code plugin

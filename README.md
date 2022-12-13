@@ -33,8 +33,12 @@ Made sure to add biomes this time ;)
 ![terrain](https://user-images.githubusercontent.com/63517279/175382590-9a8485cc-854d-4d3c-a0d2-093e448420fd.png)
 
 ## Combat System
-This is a very long ![clip](https://drive.google.com/file/d/1nMnTRg9CkBh61XwiW6LLui070lqqpd8I/view?usp=share_link) of me testing the combat system out with a friend of mine :P. It's one of my very first combat systems.
-Here's the place ![link](https://www.roblox.com/games/11383469114/Combat-System-Medieval).
+Below is a very long clip of me testing the combat system out with a friend of mine :P. It's one of my very first combat systems.
+The place link is below:
+
+Clip link: https://drive.google.com/file/d/1nMnTRg9CkBh61XwiW6LLui070lqqpd8I/view?usp=share_link
+Place link: https://www.roblox.com/games/11383469114/Combat-System-Medieval
+
 
 # Ongoing Creations
 At the moment, I am working on a universal simulator creator called SimCreator, which is basically going to be an open source simulator creating tool aimed at being able to create any kind of simulator in 3 weeks or less. Since it's ongoing, I cannot reveal details not any code. However, this can be done and it can be demonstrated privately.

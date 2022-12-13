@@ -33,8 +33,8 @@ Made sure to add biomes this time ;)
 ![terrain](https://user-images.githubusercontent.com/63517279/175382590-9a8485cc-854d-4d3c-a0d2-093e448420fd.png)
 
 ## Combat System
-Below is a very long **[clip](https://drive.google.com/file/d/1nMnTRg9CkBh61XwiW6LLui070lqqpd8I/view?usp=share_link)**! of me testing the combat system out with a friend of mine :P. It's one of my very first combat systems.
-Here is the **[place](https://www.roblox.com/games/11383469114/Combat-System-Medieval)**! link.
+Below is a very long **[clip](https://drive.google.com/file/d/1nMnTRg9CkBh61XwiW6LLui070lqqpd8I/view?usp=share_link)** of me testing the combat system out with a friend of mine :P. It's one of my very first combat systems.
+Here is the **[place](https://www.roblox.com/games/11383469114/Combat-System-Medieval)** link.
 # Ongoing Creations
 At the moment, I am working on a universal simulator creator called SimCreator, which is basically going to be an open source simulator creating tool aimed at being able to create any kind of simulator in 3 weeks or less. Since it's ongoing, I cannot reveal details not any code. However, this can be done and it can be demonstrated privately.
 
@@ -51,7 +51,7 @@ It's quite hard to get a good video demonstrating the dynamic nature of the syst
 </video>
 
 ### A Prototype of a gamejam minigame I made recently.
-This prototype is about a prop hunt in which you can possess props and move while inside them, while hunters are supposed to look for you. The framework for this prototype was designed and created by **[Orodex]((https://www.roblox.com/users/1930588726/profile)**!, who is an amazing programmer I deeply look up to.
+This prototype is about a prop hunt in which you can possess props and move while inside them, while hunters are supposed to look for you. The framework for this prototype was designed and created by **[Orodex](https://www.roblox.com/users/1930588726/profile)**, who is an amazing programmer I deeply look up to.
 **[Link](https://www.roblox.com/games/11369114960/Game-Jam-Prop-Hunt-prototype)**.
 
 #### To be updated later on, I lost most of my work 😔

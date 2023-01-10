@@ -1,9 +1,11 @@
 # Introduction
 Hi, I'm Duke. I'm a self-taught programmer currently specializing in luau scripting on Roblox. I discovered a passion for programming in 2017, and have been refining my skills ever since. My main interests are programming, game-design and the general game development process on Roblox. I love bringing ideas to life by means of functional and effective code, and Roblox is the platform that caught my eye first and has become my bread and butter over the years.
 
+My main expertise would be creating insanely complex systems (especially backend) as I have quite a lot of experience with them. I am always continuously seeking to improve and expand to perfect my frontend capabilities and experience.
+
 # Past Roblox Experiences
 ## Sword Simulator X
-I am working as a 3rd scripter for the maintenance of the **[Sword Simulator X](https://www.roblox.com/games/9103460924/Last-week-of-event-Sword-Factory-X)** game at the moment.
+I worked as a 3rd scripter for the maintenance of the **[Sword Factory X](https://www.roblox.com/games/9103460924/Last-week-of-event-Sword-Factory-X)** game.
 
 ## Metablox Productions
 I have previously worked for Metablox productions on a project, which was, unfortunately, cancelled after some time due to internal issues. However, this is just to show that I am skilled enough to work for such an amazing group as **[Metablox](https://www.roblox.com/groups/8267330/Metablox-Productions)**!

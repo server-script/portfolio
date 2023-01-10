@@ -56,5 +56,5 @@ This prototype is about a prop hunt in which you can possess props and move whil
 
 ### Most recent creation
 At the moment, this is currently the project I am involved in; a laser tag game.
-**[a clip of the latest progress of the prototype (as of 28/12/2022](https://drive.google.com/file/d/1WM3OREBRgfgxpefewBJYTqFFlPKE-j0I/view?usp=share_link)**
+**[a clip of the latest progress of the prototype (as of 28/12/2022)](https://drive.google.com/file/d/1WM3OREBRgfgxpefewBJYTqFFlPKE-j0I/view?usp=share_link)**
 #### To be updated later on, I lost most of my work 😔
